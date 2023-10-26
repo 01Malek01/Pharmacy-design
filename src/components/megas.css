@@ -1,0 +1,5 @@
+.cats span{
+    margin-right: 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}

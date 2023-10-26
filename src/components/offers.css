@@ -1,0 +1,11 @@
+.offers{
+    display: flex;
+    flex-direction: row;
+}
+.offersBox{
+    background-color: #767676;
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+    margin: 1rem;
+}

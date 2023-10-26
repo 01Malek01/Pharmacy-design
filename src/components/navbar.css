@@ -1,0 +1,19 @@
+.srchBtn{
+        
+}
+.srchBar{
+    background-color: #fff;
+}
+/* .border-btm{
+    border-bottom: 2px solid #7c7c7c ;
+
+} */
+.nav-bar span:first-child,
+.nav-bar span:nth-child(2)
+{
+ margin-right: 50px;
+}
+.hr{
+   border: 2px solid black;
+    
+}
